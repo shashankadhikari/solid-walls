@@ -2,7 +2,7 @@ body{
     font-family: 'Open Sans', sans-serif;
     overflow-x: hidden;
     /* background-color: #FFFFFF; */
-    background-color:   #F8F9FA;
+    background-color:   #fff7f7;
 }
 
 .logo{
@@ -96,10 +96,48 @@ body{
     font-style: normal;
     font-size: 26px;
 }
+
 .body-container-content{
     margin-top: 18px;
     margin-left: 18px;
 }
+.body-container-second{
+    margin-top: 90px;
+    margin-left: 70px;
+    margin-right: 70px;
+    background-color: rgb(250, 242, 242)  !important; 
+}
+.body-container-title-second{
+    color: #10367a;
+    font-weight: 700;
+    line-height: 35px;
+    font-style: normal;
+    font-size: 28px; 
+}
+.body-container-content-second{
+    margin-top: 18px;
+    margin-left: 18px;
+    color: black;
+}
+.btn-second{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    color: #ffffff    ;
+    font-size: 20px;
+    line-height: 25px;
+    font-weight: 400;
+    background-color:#733204;
+}
+.btn-second:hover{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    color: #ffffff;
+    width: 50px;
+    font-size: 20px;
+    font-weight: 400;
+    background-color:#6b2f05;
+}
+
 
 
 
