@@ -272,7 +272,17 @@ body{
     font-weight: bold;
 }
 .connect-us{
-    background-color: #E8BD0D;
+    background-color: #e7721f;
+    border-radius: 2%;
+}
+.connect-us-title{
+    color: #fff;
+}
+.connect-content{
+    color: rgb(238, 233, 226);
+}
+.connect-list{
+    color: rgb(36, 23, 3);
 }
 
 /*Footer */
