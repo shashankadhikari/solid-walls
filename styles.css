@@ -138,6 +138,67 @@ body{
     background-color:#6b2f05;
 }
 
+.body-container-third{
+    margin-top: 90px;
+    margin-left: 70px;
+    background-color: rgb(236, 231, 231)  !important; 
+    margin-bottom: 150px;
+}
+.body-container-title-third{
+    color: #10367a;
+    font-weight: 700;
+    line-height: 40px;
+    font-style: normal;
+    font-size: 25px; 
+    margin-top: 15px;
+}
+.body-container-content-third{
+    margin-top: 18px;
+    color: black;
+    background-color: rgb(255, 255, 255);
+    height: 350px;
+    margin-right: 60px;
+}
+.btn-third{
+    margin-bottom: 25px;
+    color: #ffffff    ;
+    font-size: 20px;
+    margin-left: 40px;
+    line-height: 25px;
+    font-weight: 400;
+    background-color:#733204;
+    margin-top: -20px;
+}
+.carousel-item{
+    height: 22rem;
+    position: relative;
+    margin-top: 18px;
+    background-position: center;
+    background-size: cover;
+}
+.container1{
+    position: absolute;
+    top: 30;
+    bottom: 0;
+    right: 0;
+    left: 20px;
+    height: 80px;
+    padding-bottom: 241px;
+    margin-top: 10px !important;
+}
+#tab-img{
+    margin-left: 15px;
+    height:55px;
+}
+.carousel-indicators{
+    margin-top: 500px !important;
+    bottom: -77px;
+}
+.img-slider{
+    height: 28rem;  
+    position: relative;
+    margin-top: -120px;
+}
 
 
 
