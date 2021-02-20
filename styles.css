@@ -6,7 +6,7 @@ body{
     font-family: 'Open Sans', sans-serif;
     overflow-x: hidden;
     /* background-color: #FFFFFF; */
-    background-color:   white;
+    background-color:   rgb(236, 230, 230);
 }
 
 /*--------------------------------------------------------------
@@ -250,7 +250,7 @@ section {
 #about-head{
     width: 100%;
     height: auto;
-    background-color: rgb(240, 157, 3);
+    background-color: #e7721f;
 }
 .hero-section-about{
     width: 100%;
@@ -594,8 +594,11 @@ footer hr {
     color: #e7721f;
     font-weight: bold;
     text-decoration: none;
+}
+.contact-us-heading{
+  font-weight: bold;
+  color: #632e08;
 
 }
-
 
 
