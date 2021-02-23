@@ -148,6 +148,54 @@ section {
     margin-top: 18px;
     margin-left: 18px;
 }
+@media only screen and (max-width: 600px) {
+  .body-container{
+    margin-top: 10px;
+    margin-left: 0px;
+    margin-right: 0px;
+    background-color: white  !important;
+}
+  .body-container-content{
+    font-size:5vw;
+      margin-left: 10px;
+    
+  }
+  .body-container-title{
+    color: #1057c8;
+    font-weight: 700;
+  text-align: center;
+    font-style: normal;
+    font-size: 26px;
+  }
+  .body-container-img{
+    float: none !important;
+  
+
+  }
+  .body-container-second{
+    margin-top: 10px !important;
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+    background-color: white  !important;
+}
+  .body-container-content-second{
+    font-size:5vw;
+      margin-left: 10px;
+      flex-basis:auto !important;
+
+    
+  }
+  .body-container-title-second{
+    color: #1057c8;
+    font-weight: 700;
+  text-align: center;
+    font-style: normal;
+    font-size: 26px;
+  }
+ 
+
+}
+
 .body-container-second{
     margin-top: 90px;
     margin-left: 70px;
@@ -599,88 +647,6 @@ footer hr {
   font-weight: bold;
   color: #632e08;
 
-<<<<<<< HEAD
-=======
-/*--------------------------------------------------------------
-# Fund my external insulation
---------------------------------------------------------------*/
-.fund-insulation-section-h3{
-  font-weight: 700;
-  font-size: 26px;
-  line-height: 35px;
-  color: #09357a;
-}
-
-.fund-insulation-section-h4{
-  font-weight: 550;
-  font-size: 21px;
-  line-height: 32px;
-  color: #052a66;
-}
-
-.fund-insulation-section-link{
-  font-weight: 700;
-  font-size: 15px;
-  line-height: 25px;
-  color: #733204;
-}
-
-.fund-insulation-section-link:hover{
-  color: #522403;
-}
-
-/*--------------------------------------------------------------
-# Eco scheme
---------------------------------------------------------------*/
-.eco-section{
-  padding-top: 3px;
-}
-
-.eco-scheme-img{
-  height: 250px;
-  width: 600px;
-}
-
-
-/*--------------------------------------------------------------
-# other isulation
---------------------------------------------------------------*/
-.other-insulation-to-consider-container{
-  margin-top: 50px;
-  margin-bottom: 50px;
-}
-
-.other-insulation-h5{
-  font-weight: 550;
-  font-size: 20px;
-  line-height: 32px;
-  color: #052a66;
-}
-
-.other-insulation-section-h3{
-  font-weight: 700;
-  font-size: 26px;
-  line-height: 35px;
-  color: #09357a;
-}
-
-/*--------------------------------------------------------------
-# Insulation and energy-saving advice
---------------------------------------------------------------*/
-
-.Insulation-energy-saving-advice-container{
-  margin-top: 50px;
-  margin-bottom: 50px;
-}
-
-.services .service-box {
-  box-shadow: 0px 0 30px rgba(1, 41, 112, 0.08);
-  height: 100%;
-  padding: 60px 30px;
-  text-align: center;
-  transition: 0.3s;
-  border-radius: 5px;
->>>>>>> 51dd365521431b0c5d881bfccba85df43725972e
 }
 
 
